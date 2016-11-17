@@ -1,2 +1,2 @@
 # vuejs-note
-note using vuejs components communication in laravel environtment
+note using vuejs 2.0 components communication in laravel 5.3 environtment
